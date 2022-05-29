@@ -1,0 +1,9 @@
+Form para.env
+
+
+HOST = ''
+USER = ''
+PASSWORD = ''
+PORT =
+    DIALECT = ''
+DATABASE = ''
